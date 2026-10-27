@@ -1,0 +1,78 @@
+{
+	"records":	[{
+			"ABST":	"20260522T120454Z",
+			"RLST":	"P1DT5H48M22S",
+			"RTCW":	"PT0S",
+			"ID":	202,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260616T072701Z",
+			"RLST":	"P26DT1H10M29S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260616T072942Z",
+			"RLSP":	"P26DT1H13M10S",
+			"RTCW2":	"PT0S",
+			"ID":	202,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260616T084521Z",
+			"RLST":	"P26DT2H28M49S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260616T084706Z",
+			"RLSP":	"P26DT2H30M34S",
+			"RTCW2":	"PT0S",
+			"ID":	202,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260616T091743Z",
+			"RLST":	"P26DT3H1M11S",
+			"RTCW":	"PT0S",
+			"INFO":	3,
+			"ID":	208,
+			"ACK":	1
+		},
+		{
+			"ABST":	"20260617T162443Z",
+			"RLST":	"P27DT10H8M11S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260617T182048Z",
+			"RLSP":	"P27DT12H4M16S",
+			"RTCW2":	"PT0S",
+			"ID":	202,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260617T182200Z",
+			"RLST":	"P27DT12H5M28S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260618T063026Z",
+			"RLSP":	"P28DT13M54S",
+			"RTCW2":	"PT0S",
+			"ID":	202,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260618T052030Z",
+			"RLST":	"P27DT23H3M58S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260618T070531Z",
+			"RLSP":	"P28DT48M59S",
+			"RTCW2":	"PT0S",
+			"INFO":	8.2,
+			"ID":	201,
+			"ACK":	0
+		},
+		{
+			"ABST":	"20260618T162035Z",
+			"RLST":	"P28DT10H4M3S",
+			"RTCW":	"PT0S",
+			"ABSP":	"20260622T083117Z",
+			"RLSP":	"P32DT2H14M45S",
+			"RTCW2":	"PT0S",
+			"ID":	203,
+			"ACK":	0
+		}]
+}
